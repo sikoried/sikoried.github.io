@@ -34,4 +34,4 @@ I'm currently working towards a commercial license.
 </figure>
 
 When I'm not working or flying, you may find me playing the violin.
-I enjoy both orchestra and chamber music, and play concerts every now and then.
+I enjoy both orchestra and chamber music, and perform every now and then.

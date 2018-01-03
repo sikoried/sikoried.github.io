@@ -1,5 +1,5 @@
-title: Korbinian Riedhammer
-description: Building stuff with speech technology
+title: "Korbinian Riedhammer"
+description: "Building stuff with speech technology"
 
 url: https://sikoried.github.io
 baseurl: ""
@@ -18,6 +18,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+ - title: Teaching
+   url: /teaching
  - title: Publications
    url: /publications
 
