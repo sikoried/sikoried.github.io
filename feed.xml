@@ -3,10 +3,10 @@
   <channel>
     <title>Korbinian Riedhammer</title>
     <description>Building stuff with speech technology</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jan 2018 10:20:57 +0100</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2018 10:20:57 +0100</lastBuildDate>
+    <link>https://sikoried.github.io/</link>
+    <atom:link href="https://sikoried.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jan 2018 10:13:10 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2018 10:13:10 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -23,9 +23,9 @@ Unfortunately, Github pages allows only a handful of plugins, so I couldn’t ru
 
 </description>
         
-        <pubDate>Tue, 02 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/redesign/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/redesign/</guid>
+        <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+        <link>https://sikoried.github.io/blog/redesign/</link>
+        <guid isPermaLink="true">https://sikoried.github.io/blog/redesign/</guid>
         
         
       </item>
