@@ -21,14 +21,17 @@ git clone https://${GH_TOKEN}@github.com/sikoried/sikoried.github.io.git \
 	../master
 
 # copy generated HTML site to `master' branch
+echo "Updating static _site content..."
 rm -r ../master/*
 cp -R _site/* ../master/
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
 cd ../master
-git config user.email "korbinianr@gmail.com"
-git config user.name "Korbinian Riedhammer"
+
+echo "Committing changes to master..."
+git config --global user.email "korbinianr@gmail.com"
+git config --global user.name "Korbinian Riedhammer"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --quiet origin master > /dev/null 2>&1
+git push origin master # > /dev/null 2>&1
