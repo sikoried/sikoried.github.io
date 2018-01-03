@@ -1,0 +1,39 @@
+title: Korbinian Riedhammer
+description: Building stuff with speech technology
+
+url: https://sikoried.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [ 'jekyll-paginate', 'jekyll/scholar' ]
+paginate: 5
+
+exclude: [ vendor, node_modules, build.sh, LICENSE, Gemfile, Gemfile.lock, gulpfile.js, preview.jpg, README.md, 'package-lock.json', package.json ]
+
+navigation:
+ - title: Blog
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Publications
+   url: /publications
+
+social:
+   github: sikoried
+   email: korbinian@ieee.org
+   scholar: __qMXKgAAAAJ
+
+scholar:
+  style: apa
+  sort_by: year
+  order: descending
+  group_by: type
+  bibliography_template: {{reference}}
+  type_names:
+    misc: Talks
+    patent: Patents
+
+google_analytics: "UA-58263416-1"
