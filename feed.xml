@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Korbinian Riedhammer</title>
+    <description>Building stuff with speech technology</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jan 2018 10:20:57 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2018 10:20:57 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      
+      <item>
+        <title>Use Travis to automate your custom Jekyll deployment</title>
+        <description>&lt;p&gt;I updated my page to use a &lt;a href=&quot;&quot;&gt;new theme&lt;/a&gt; and a Jekyll plugin to &lt;a href=&quot;&quot;&gt;list publications&lt;/a&gt;.
+Unfortunately, Github pages allows only a handful of plugins, so I couldn’t run automatic deployment.&lt;/p&gt;
+
+&lt;p&gt;Travis ftw: &lt;a href=&quot;http://eshepelyuk.github.io/2014/10/28/automate-github-pages-travisci.html&quot;&gt;This tutorial&lt;/a&gt; explains how to set up travis, so you can enjoy automatic deployment via commit hooks.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;I updated my page to use a &lt;a href=&quot;&quot;&gt;new theme&lt;/a&gt; and a Jekyll plugin to &lt;a href=&quot;&quot;&gt;list publications&lt;/a&gt;.
+Unfortunately, Github pages allows only a handful of plugins, so I couldn’t run automatic deployment.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 02 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/redesign/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/redesign/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
