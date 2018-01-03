@@ -13,20 +13,20 @@ set -e
 jekyll build
 
 # cleanup
-rm -rf ../sikoried.github.io.gh-pages
+rm -rf ../master
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
 git clone https://${GH_TOKEN}@github.com/sikoried/sikoried.github.io.git \
-	--branch gh-pages --single-branch \
-	../sikoried.github.io.gh-pages
+	--branch master --single-branch \
+	../master
 
 # copy generated HTML site to `master' branch
-rm -r ../sikoried.github.io.gh-pages/_site
-cp -R _site/* ../sikoried.github.io.gh-pages
+rm -r ../master/*
+cp -R _site/* ../master/
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd ../sikoried.github.io.gh-pages
+cd ../master
 git config user.email "korbinianr@gmail.com"
 git config user.name "Korbinian Riedhammer"
 git add -A .

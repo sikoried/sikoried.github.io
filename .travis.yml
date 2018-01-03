@@ -1,12 +1,17 @@
 language: ruby
-script: "./build.sh"
+
 before_script:
 - chmod +x "./build.sh"
+
+script: "./build.sh"
+
 branches:
   only:
-  - master
+  - sources
+
 rvm:
 - 2.1.2
+
 env:
   global:
     secure: uGw/Tkf565Lc3SPtsO9BgEQIf7ohiGFoqw4LoKogzjUQfChJHY6w28ZuVRdaKNwS6j+EVMnOyAGF4TtcM+RkhDfbGltRRFibFJg4WANXq8Dd+rig9uTHJmh9S4+Lt5oM1ZUEcZ8FT5VDlOe4uG6kI9VySGQ/b/rZlkrxWuJbgfGwh7gpsCzX6kaDIeVHdzE/We5w9OVHBs0l7a5EI++gSgta57yT23oKV7s1jCyw4M7qEVhESUMIPsmg83YHsT/InHDeZz+fcOPbHW46mVboroTw1H6lvKKF4YRkmSzDKLGHS8k6ArMQaOEyWtV/0dLwBiLuoer094FSwTZgAwsIdBQCNkkR+DPkbdbA3XPYhlpW6ko/B2BVgdOGjPVU2PGcbE+s9tz9Fb7OZFI+rxaeOT9MsHHTKi/1m1Raz9/BAeUigD7QHj+dJgMAbYHXs04kl2mM/hN/w8+7kBznINnrqENpevVIQUF6uYVaKaSuDdyFla+6eIsRFRABvYjAXKSzhvvdehRwW0OY73+KoIhokyNuxtw4ibMkGZm9s/y44Md07Mb9jT6SqHkqMXTbNgDymaPc7kTOBHJHanAFRH/Cugz15XyCdsePF0bfX4Ggl3pKZUknlztKJN35eizofImp9NX0arPUwtMyFUO17f5V0t7MYS43xOF6+l+TKkUyJkY=
