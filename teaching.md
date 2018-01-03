@@ -19,6 +19,7 @@ _Electives for [CS undergrads](https://www.fh-rosenheim.de/technik/informatik-ma
 _Electives for [CS grad students](https://www.fh-rosenheim.de/technik/informatik-mathematik/informatik-master) at the [University of Applied Sciences Rosenheim](https://www.fh-rosenheim.de)._
 
 - [Konzepte der Programmiersprachen](#konzepte-der-programmiersprachen)
+- [Anwendungen funktionaler Programmierung](#anwendungen-funktionaler-programmierung)
 - [Machine Learning](#machine-learning)
 - [Sequence Learning](#sequence-learning)
 
@@ -33,13 +34,13 @@ We'll cover advanced concepts of objects oriented programming including inherita
 We also touch recursion and multi-threading as higher-level programming concepts.
 
 Class and materials are in German.
-See the [class website](https://hsro-wif-prg2.github.io/) ([new version](https://github.com/sikoried/fpk), work-in-progress).
+See the [course website](https://hsro-wif-prg2.github.io/) ([new version](https://github.com/sikoried/fpk), work-in-progress).
 
 
 <h4 id="refresher-course">Refresher Course <a href="#list"><i class="fa fa-arrow-up"></i></a></h4>
 
 A brief 6-week refresher course for students that failed the Programmieren 2 exam.
-See the [class website](https://hsro-wif-prg2.github.io/refresher/).
+See the [course website](https://hsro-wif-prg2.github.io/refresher/).
 
 
 <h3 id="programmieren-3">Programmieren 3 <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
@@ -50,7 +51,7 @@ A deep dive into object oriented programming using the Java language, with a foc
 We also touch multi-threading and basics of functional programming.
 
 The class is taught in German, with English materials.
-See the [class website](https://hsro-inf-prg3.github.io/).
+See the [course website](https://hsro-inf-prg3.github.io/).
 
 
 <h3 id="webtechnologien">Webtechnologien (web technologies) <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
@@ -58,7 +59,7 @@ See the [class website](https://hsro-inf-prg3.github.io/).
 A round-house kick introduction to how web apps work: starting with the basics of HTML5, CSS3 and Javascript, we'll explore [vue.js](https://vuejs.org) as an advanced toolkit, and conclude with deployment using [docker](https://docker.com) and [heroku](https://www.heroku.com).
 
 The class is taught in German, with English materials.
-See the [class website](https://hsro-inf-wt.github.io/).
+See the [course website](https://hsro-inf-wt.github.io/).
 
 
 <h3 id="sprachtechnologien">Sprachtechnologien (Speech Technologies) <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
@@ -68,7 +69,7 @@ We'll start with how the voice works and how the voice signal can be analyzed by
 After a brief detour to the machine learning world where we'll talk about classification and sequence classification, we explore applications such as speaker identification, voice biometrics, speech recognition, dialog systems and speech translation.
 
 The class is taught in German, with mostly German materials.
-See the [class website](https://inf-git.fh-rosenheim.de/riko493/st).
+See the [course website](https://inf-git.fh-rosenheim.de/riko493/st).
 
 
 <h3 id="microservices">Microservices <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
@@ -77,7 +78,7 @@ We'll experiment and discuss current trends in cloud architecture and microservi
 Topics include building blocks, containerization and provisioning, devops, discovery and communication, persistence and security.
 
 The class is taught in German, with mostly English materials.
-See the [class website](https://hsro-inf-mis.github.io/)
+See the [course website](https://hsro-inf-mis.github.io/)
 
 
 ## Graduate Classes
@@ -89,7 +90,15 @@ We then continue with other advanced concepts of programming languages, such as 
 
 As a side effect, this course exposes you to a larger number of current programming languages and so you can learn about their particular strengths and weaknesses.
 
-See the [class website](https://hsro-inf-kp.github.io/)
+See the [course website](https://hsro-inf-kp.github.io/)
+
+
+<h3 id="anwendungen-funktionaler-programmierung">Anwendungen funktionaler Programmierung (Applications of Functional Programming) <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
+
+The first half of the course is a deep dive into the functional programming language Scala.
+We'll then branch out to discover elements of functional programming in other languages such as C++, golang, Haskell, etc.
+
+Course materials currently not publicly available.
 
 
 <h3 id="machine-learning">Machine Learning <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
