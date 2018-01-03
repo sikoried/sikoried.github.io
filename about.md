@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 ---
 
 <img class="img-responsive" style="max-width: 150px; float: left; margin-right: 25px" src="/assets/img/me-square.jpg">
