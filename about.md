@@ -9,6 +9,8 @@ Fakultät für Informatik<br>
 Hochschule Rosenheim<br>
 [www](http://www.fh-rosenheim.de/die-hochschule/fakultaeten-institute/fakultaet-fuer-informatik/ansprechpartner/professoren/prof-dr-korbinian-riedhammer/) | [email](mailto:korbinian.riedhammer@fh-rosenheim.de)
 
+<span id='badgeCont312126' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont312126&mashlet=badge&showTitle=false&className=a&rid=A-2293-2012'></script></span>
+
 <p style="clear: both"></p>
 
 I'm a full professor of computer science at the [University of Applied Sciences Rosenheim](http://www.fh-rosenheim.de/die-hochschule/fakultaeten-institute/fakultaet-fuer-informatik/ansprechpartner/professoren/prof-dr-korbinian-riedhammer/) where I teach programming and machine learning.
