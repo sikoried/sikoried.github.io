@@ -69,7 +69,7 @@ We'll start with how the voice works and how the voice signal can be analyzed by
 After a brief detour to the machine learning world where we'll talk about classification and sequence classification, we explore applications such as speaker identification, voice biometrics, speech recognition, dialog systems and speech translation.
 
 The class is taught in German, with mostly German materials.
-See the [course website](https://inf-git.fh-rosenheim.de/riko493/st).
+See the [course website](https://sikoried.github.io/sprachtechnologien/).
 
 
 <h3 id="microservices">Microservices <a href="#list"><i class="fa fa-arrow-up"></i></a></h3>
@@ -117,5 +117,5 @@ While the above _Machine Learning_ class is more general and introductory, _Sequ
 We begin with simple techniques such as dynamic timewarping, and dive deeper into hidden Markov models and recurrent (deep) neural networks.
 Applications include stock market prediction, speech recognition or speech translation.
 
-This course is currently in the making (summer term 2018).
+See the [course website](https://sikoried.github.io/sequence-learning/)
 
