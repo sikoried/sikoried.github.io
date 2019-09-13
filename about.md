@@ -5,15 +5,15 @@ layout: page
 <img class="img-responsive" style="max-width: 150px; float: left; margin-right: 25px" src="/assets/img/me-square.jpg">
 
 <strong>Prof. Dr.-Ing. Korbinian Riedhammer</strong><br>
-Fakultät für Informatik<br>
-Hochschule Rosenheim<br>
-[www](http://www.fh-rosenheim.de/die-hochschule/fakultaeten-institute/fakultaet-fuer-informatik/ansprechpartner/professoren/prof-dr-korbinian-riedhammer/) | [email](mailto:korbinian.riedhammer@fh-rosenheim.de)
+Fakultät Informatik<br>
+Technische Hochschule Nürnberg<br>
+[www](https://www.th-nuernberg.de/person/riedhammer-korbinian/) | [email](mailto:korbinian.riedhammer@th-nuernberg.de)
 
 <span id='badgeCont312126' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont312126&mashlet=badge&showTitle=false&className=a&rid=A-2293-2012'></script></span>
 
 <p style="clear: both"></p>
 
-I'm a full professor of computer science at the [University of Applied Sciences Rosenheim](http://www.fh-rosenheim.de/die-hochschule/fakultaeten-institute/fakultaet-fuer-informatik/ansprechpartner/professoren/prof-dr-korbinian-riedhammer/) where I teach programming and machine learning.
+I'm a full professor of computer science at the [Technische Hochschule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/fakultaeten/in/) where I teach software architecture and machine learning.
 
 I'm also co-founder of [Remeeting](https://remeeting.com/), a service to transcribe and search spoken audio such as teleconferences or phone calls.
 
